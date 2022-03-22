@@ -17,6 +17,6 @@ function redirectCall() {
     document.querySelector('#submit')
     .addEventListener('click', () => {
     window.location.href =
-    'geedo-construction-home-page.html';
+    'index.html';
     });
   }
