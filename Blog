@@ -1,1 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8">
+    <title>Blog Developer | Blogger </title>
+    <link class="favicon" rel="icon" href="icons8-development-64.png">
+    <link rel="stylesheet" href="geedo-construction-website.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <h1>How To Get More Online Traffic</h1>
+            <nav>
+                <ul>
+                    <li><a href="geedo-construction-contact-page.html"> Contact</a></li>
+                    <li><a href="geedo-construction-portfolio-page.html"> Portfolio</a></li>
+                    <li><a href="geedo-construction-blog-page.html"> Blog</a></li>
+                    <li><a href="geedo-construction-resume-page.html"> Resume</a></li>
+                    <li><a href="index.html"> Home</a></li>
+                </ul>
+            </nav>
+        </header>
+   <div class="main-div">
+       <div class="main-div-inner">
+           <div class="geedo-div">
+               <img class="geedo-profile-pic" src="geedo profile.png" alt="black developers">
+               <h1 class="geedo-name">Geedo Jalloh</h1>
+               <p class="geedo-p">The primary job of a blog is to possess content in the form of some tangible information that cover the most commonly searched topics on google, that relate to your product, or services.<br>
+                 Blog posts are meant to provide valuable information to people in a way that's free and easy to read. Blogs should have textual content as well as visual content to educate and captivate, not only your audience, but carefully applying keyword research to your important title tags, h1-h6 tags, and alt-text attributes for image files, etc...To captivate the google search engine before other content that may not be as "properly filed" as your online content will be in the theoretical filing cabinet of google.<br><br> It's the first step to building trust with readers so that you can turn them into customers in the future.
+                A blog is a type of website where the content is presented in reverse chronological order (newer content appear first). Blog content is often referred to as entries or “blog posts”.
 
+                Blogs are typically run by an individual or a small group of people (businesses and developers) to present information in a conversational style
+               </p>
+                         </div>
+                         <div class="row-one-div">
+                             <div class="row-one-section-one">
+                                 <div class="row-one-section-one-inner">
+                                     <div class="row-one-section-one-title">
+                                         <h2 class="row-one-h2">What blogs do for online businesses..</h2>
+                                         <p>Blogs enable online content to populate highly used keywords, if keyword search is applied properly, meaning your important tags hold highly searched words, it will cross paths with content with more prior engagements.. A blog is a great reason to have a landing page constructed that will lead up to a full sales funnel, once your online content adds up over time. Good informing blogs lead up to the demand for your solution, and a blog that is a part of a larger sales funnel increases site visits. In my own choice of words, this process becomes or works sort of like an automation that is driven by the clicks of your audience. I will go pass the limits of the typical online shop platform that you host your shop with by applying my knowledge of web development, as well as my own raw and uncut creativity. Most of the popular, and commonly used platforms that sale domains to businesses, offer great and stable enough architecture to get the job done, but lets be clear and take a look from the technical side of things, we know there are times you need to create more customized content to capture your traffic, and honestly, these platforms require developers to remain under the guidelines of pre-constructed frameworks that will limit those fully customizable abilities. So you have developers like me that offer services building your content from scratch, that will allow your audience to lead themselves directly to your main shop.</p>
+                                         <p class="injected-text"></p>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                         <div class="link-tree-btn-div">
+                            <button class="link-tree-btn"><a href="https://linktr.ee/Africultureconcepts"> GO</a></button>
+                         </div>
+                         <div class="social-section">
+                            <div class="social-div">
+                             <ul class="social-list">
+                                 <li class="social-items"><a href="https://twitter.com/JallohWebDevs"><img class="social-img" src="icons8-twitter.svg"></a></li>
+                                 <li class="social-items"><a href="https://www.facebook.com/DeveloperPlug"><img class="social-img" src="icons8-facebook.svg"></a></li>
+                                 <li class="social-items"><a href="https://www.instagram.com/jallohwebconstruction/"><img class="social-img" src="icons8-instagram-old.svg"></a></li>
+                                 <li class="social-items"><a href="https://www.youtube.com/channel/UCk6BLSEq2ybDmfcy3S-czRA"><img class="social-img" src="icons8-youtube-logo.svg"></a></li>
+                             </ul>
+                          </div>
+                          </div>
+                          <footer class="site-footer">
+                             <div class="footer-copy-rights">
+                                 <h6>2022 | Jalloh Web Constructed</h6>
+                             </footer>
+                             <script type="text/javascript" src="geedo-construction-wesbite.js"></script>
+                          </body>
+                          </html>
