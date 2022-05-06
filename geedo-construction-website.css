@@ -58,7 +58,7 @@ html {
 }
 
 body {
-  background: url("background.png");
+  background: white;
   background-attachment: fixed;
   height: fit-content;
   padding-bottom: 20px;
